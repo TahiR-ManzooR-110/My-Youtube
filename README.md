@@ -6,3 +6,5 @@
 -Built With The Help Of API And LocalStorage.
 <br>
 -<b>Tech Stacks:</b> HTML, CSS, JavaScript.
+<br>
+-<b>LIVE : </b><a href="https://ornate-pie-ca75ff.netlify.app/"><b>NETLIFY</b></a>
